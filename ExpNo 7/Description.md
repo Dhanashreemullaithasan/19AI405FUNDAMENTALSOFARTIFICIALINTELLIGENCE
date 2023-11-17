@@ -112,10 +112,11 @@ if solution:
 else:
     print("No solution found.")
 ```
+
 ### OUTPUT:
 
 ![image](https://github.com/Dhanashreemullaithasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94165415/8c59c353-166e-4cab-a61a-8793d866c1b6)
 
 
-<h2>Result:</h2>
+### Result:
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
