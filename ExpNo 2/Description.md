@@ -104,9 +104,11 @@ G F <BR>
 <hr>
 
 ### PROBLEM:
-`
+```
 from collections import deque
+
 from collections import defaultdict
+
 def bfs(graph,start,visited,path):
     queue = deque()
     path.append(start)
@@ -133,7 +135,7 @@ path = []
 visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
-`
+```
 ### OUTPUT:
 
 ![image](https://github.com/Dhanashreemullaithasan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/94165415/7876773d-77b6-4dd2-8046-de7b767b07bd)
